@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {0..20}
+do
+   cp bigo ex$i
+done
